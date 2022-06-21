@@ -71,6 +71,41 @@
 </div>
 
 <body>
+    <h2 style="color: #008069"> Version 15</h2>
+ 
+
+    <p>
+
+        <point>NEW</point> Base Updated to 2.22.10.73 Stable Base.</br>
+        <point>NEW</point> Now your videos will be sent in their best quality (Only applies to mp4 formats).</br>
+        <point>NEW</point> Improved WhatsApp lock, you can not enter from notifications if it is enabled.</br>
+        <point>NEW</point> New EMOJIS.</br>
+         <point>NEW</point> DND Mode In Home Screen Show/Hide Button.</br>
+         <point>NEW</point> Add Account In Home Screen Show/Hide Button.</br>
+         <point>NEW</point> Side Drawer In Home Screen Show/Hide Button.</br>
+        <point>NEW</point> Add Calls Privacy In Settings >> Account >> Privacy >> Calls Privacy</br>
+        <point>NEW</point> Add Clean Cashe In Settings >> Chats >> Clean Cashe</br>
+        <point>NEW</point> Add Backup/Restore In Settings >> Chats >> Backup/Restore (MOD)</br>
+         <point>NEW</point> Add New Eula Screen.</br>
+        <point>NEW</point> New Add Group/Chats.</br>
+        <point>NEW</point> New Home Screen Layout Change.</br>
+                <point>NEW</point> New Virus Buttons.</br>
+        <point>NEW</point> Percentage and time remaining at the time of sending and downloading files.</br>
+        <point>NEW</point> Group voice calls now support up to 32 participants, and an updated interface including social audio layout, speaker highlight, and waveforms.</br>
+        <point>Enable</point> Video upload quality<br>
+<point>Enable</point> Elevating profile and profile name <br>
+
+<point>Enable</point> Send any emoji as reactions. Click "+" icon <br>
+<point>Enable</point> Listen to voice note after chat exit in background <br>
+        <fixed>Fixed</fixed> Fixed bugs on chat screen.</br>
+        <fixed>Fixed</fixed> Fixed random crash not allowing to enter the app. (Apparently).</br>
+        <fixed>Fixed</fixed> Other fixes and stability and performance improvements!</br>
+    </br>
+    <fixed>NOTE</fixed> Hidden ones are shown again. However, in some cases, the Features do not show up again, as the cause may be Server Update. It shows up again in a moment.
+    </p>
+    <hr /> 
+
+
     <h2 style="color: #008069"> Version 14</h2>
     
 
@@ -297,6 +332,5 @@
     <hr />
 
 </body>
-
 
 </html>
