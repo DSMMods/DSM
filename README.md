@@ -65,271 +65,46 @@
     </style>
 </head>
 <div style="font-weight: bold; font-size: 15px; text-align: center; width: 100%;">
-    <strong>
-        <h1 style="color: #008069">DSM WhatsApp</h1>
-    </strong>
+    
 </div>
 
 <body>
-    <h2 style="color: #008069"> Version 15</h2>
- 
-
-    <p>
-
-        <point>NEW</point> Base Updated to 2.22.10.73 Stable Base.</br>
-        <point>NEW</point> Now your videos will be sent in their best quality (Only applies to mp4 formats).</br>
-        <point>NEW</point> Improved WhatsApp lock, you can not enter from notifications if it is enabled.</br>
-        <point>NEW</point> New EMOJIS.</br>
-         <point>NEW</point> DND Mode In Home Screen Show/Hide Button.</br>
-         <point>NEW</point> Add Account In Home Screen Show/Hide Button.</br>
-         <point>NEW</point> Side Drawer In Home Screen Show/Hide Button.</br>
-        <point>NEW</point> Add Calls Privacy In Settings >> Account >> Privacy >> Calls Privacy</br>
-        <point>NEW</point> Add Clean Cashe In Settings >> Chats >> Clean Cashe</br>
-        <point>NEW</point> Add Backup/Restore In Settings >> Chats >> Backup/Restore (MOD)</br>
-         <point>NEW</point> Add New Eula Screen.</br>
-        <point>NEW</point> New Add Group/Chats.</br>
-        <point>NEW</point> New Home Screen Layout Change.</br>
-                <point>NEW</point> New Virus Buttons.</br>
-        <point>NEW</point> Percentage and time remaining at the time of sending and downloading files.</br>
-        <point>NEW</point> Group voice calls now support up to 32 participants, and an updated interface including social audio layout, speaker highlight, and waveforms.</br>
-        <point>Enable</point> Video upload quality<br>
-<point>Enable</point> Elevating profile and profile name <br>
-
-<point>Enable</point> Send any emoji as reactions. Click "+" icon <br>
-<point>Enable</point> Listen to voice note after chat exit in background <br>
-        <fixed>Fixed</fixed> Fixed bugs on chat screen.</br>
-        <fixed>Fixed</fixed> Fixed random crash not allowing to enter the app. (Apparently).</br>
-        <fixed>Fixed</fixed> Other fixes and stability and performance improvements!</br>
-    </br>
-    <fixed>NOTE</fixed> Hidden ones are shown again. However, in some cases, the Features do not show up again, as the cause may be Server Update. It shows up again in a moment.
-    </p>
-    <hr /> 
-
-
-    <h2 style="color: #008069"> Version 14</h2>
     
-
-    <p>
-
-        <point>NEW</point> The traditional layout of the contact list has been returned.</br>
-        <point>Additional</point> Removed option to display name on home screen.</br>
-        <fixed>Fixed</fixed> Fixed "WhatsApp has stopped" on some devices.</br>
-        <fixed>Fixed</fixed> Fixed APK file (On some devices it was showing as invalid file).</br>
-        <fixed>Fixed</fixed> Fixed "App not installed" on some devices. (At the time of update).</br>
-        <fixed>Fixed</fixed> Other fixes.</br>
-
-
-    </p>
+        <h2 style="color: #008069"> DSM WhatsApp V16.0</h2>
+    <date>30/Aug/2022</date>
+    
     <hr /> 
-
-    <h2 style="color: #008069"> Version 13</h2>
- 
-
     <p>
 
-        <point>NEW</point> Arm64-v8a architecture added back. (Double architecture).</br>
-        <fixed>Fixed</fixed> Fixed internet image search from chat on some Android versions.</br>
-        <fixed>Fixed</fixed> Fixed adding contacts from WhatsApp.</br>
-        <fixed>Fixed</fixed> Other fixes.</br>
-
-
-    </p>
-    <hr /> 
-
-    <h2 style="color: #008069"> Version 12</h2>
-
-    <p>
-
-        <point>NEW</point> Base Updated to 2.22.6.72 Stable Base.</br>
-        <point>NEW</point> Now the option to mark blue ticks after answering is separated for groups and contacts.</br>
-        <point>NEW</point> Added Option mark blue ticks after responding to custom privacy.</br>
-        <point>NEW</point> Added Option to send files larger than 100MB. (Max 1GB).</br>
-        <point>NEW</point> Now you can send videos up to 500MB.</br>
-        <point>NEW</point> Enabled Reactions.</br>
-        <point>NEW</point> Enabled Option to send videos with better quality.</br>
-        <point>NEW</point> Enabled My contacts, except...</br>
-        <point>NEW</point> Enabled Global audio playback.</br>
-        <point>NEW</point> The new contact information preview design has been enabled.</br>
-        <point>NEW</point> Some other new WhatsApp UI designs were enabled.</br>
-        <point>Additional</point> Now the entry to the Mod options will be from the main screen menu. In a grouped menu where the options "Restart", "New Chat" and "Settings+" will be.</br>
-        <fixed>Fixed</fixed> Fixed fake virus alert.</br>
-        <fixed>Fixed</fixed> Fixed app freezing.</br>
-        <fixed>Fixed</fixed> Fixed tag forwarded option.</br>
-        <fixed>Fixed</fixed> Fixed random crash on some Samsung devices.</br>
-        <fixed>Fixed</fixed> Fixed searching images on internet.</br>
-        <fixed>Fixed</fixed> Other fixes and stability and performance improvements!</br>
-
+        <point>NEW</point> Base Updated to 2.22.16.75 Stable Base. </br>
+        <point>NEW</point> Now the administrator of a group can delete messages from any member for everyone. (Only works if you have anti-delete messages disabled).</br>
+        <point>NEW</point> Now there is also the percentage and remaining time when sending and downloading videos.</br>
+        <point>NEW</point> Enabled delete messages for everyone up to 2 days and 12 hours.</br>
+        <point>NEW</point> Now you can use the status reactions.</br>
+        <point>NEW</point> Adaptive Storage. (The mod backup, status downloads, photo/video downloads in view once, images from internet, will be saved in the respective directory depending on the android version you have). </br>
+        <point>NEW</point> On group calls, you can mute others or message them by long pressing on their tile.</br>
+         <point>NEW</point> Add Menu Settings In Home Screen</br> 
+           <point>NEW</point> Add Status Color Changer & More Features.</br>
+             <point>NEW</point> Add New Boom Settings & More Features</br>
+               <point>NEW</point> Add New Home Style Changer</br>
+                 <point>NEW</point> Add Custom Search Bar In Home Screen</br>
+                   <point>NEW</point> Add Modify Chat In Home Menu And Chat Screen</br>
+                     <point>NEW</point> Add All Effects (chats, main screen, emojis).</br>
+                        <point>NEW</point> Add More Extra Buttons In Privacy.</br>
+             <point>NEW</point> Add New Privacy Style [ UI ].</br>        
+        <point>Additional</point> Made improvements to the Settings+ UI.</br>
+        
+        <point>Additional</point> Full HD Meadia.</br>
+        <point>Additional</point> Improvements in privacy options.</br>
+        <point>Additional</point> The maximum size limit for sending videos has been reduced to 100MB due to problems with some users.</br>
+        <fixed>Fixed</fixed> Fixed a bug that would not allow sending videos on some occasions.</br>
+        <fixed>Fixed</fixed> Fixed an issue causing hidden features to be temporarily disabled.</br>
+        <fixed>Fixed</fixed> Fixed keyboard not appearing when responding to a message.</br>
+        <fixed>Fixed</fixed> Other fixes, optimizations, and stability and performance improvements.</br>
 
     </p>
-    <hr /> 
-
-    <h2 style="color: #008069"> Version 11</h2>
-
-    <p>
-
-        <point>NEW</point> Base Updated to 2.22.3.77 Stable Base.</br>
-        <point>NEW</point> Now you don't need to restart the app to view sent photos/videos in "view once" mode again. "Unlimited".</br>
-        <point>NEW</point> You can now access archived chats from the right side of the WhatsApp name, only if you have the Hide Archived Chats option enabled.</br>
-        <point>Additional</point> Improved the option to show blue ticks after responding.</br>
-        <fixed>Fixed</fixed> Fixed compatibility of adding stickers with some third-party apps.</br>
-        <fixed>Fixed</fixed> Fixed "Online" in groups.</br>
-        <fixed>Fixed</fixed> Fixed backtracking the new contact info UI.</br>
-        <fixed>Fixed</fixed> Other fixes and stability and performance improvements!</br>
-
-
-    </p>
-    <hr /> 
-
-    <h2 style="color: #008069"> Version 10</h2>
-
-    <p>
-
-        <fixed>Fixed</fixed> Fixed problem with notifications.</br>
-        <fixed>Fixed</fixed> Fixed a bug in the option to show blue ticks after replying.</br>
-        <fixed>Fixed</fixed> Fixed a bug in the status screen.</br>
-        <fixed>Fixed</fixed> Fixed virus bug on Huawei, Vivo.</br>
-        <fixed>Fixed</fixed> Other bugs fixed.</br>
-
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 09</h2>
-
-    <p>
-
-        <fixed>Fixed</fixed> Bug fixes.</br>
-
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 08</h2>
-
-    <p>
-
-        <point>NEW</point> Base Updated to 2.21.24.22 Stable Base.</br>
-        <point>NEW</point> Now, the option to show blue ticks after answering will also apply to groups.</br>
-        <point>NEW</point> Added the option to send audios larger than 16MB.</br>
-        <point>NEW</point> Now you can place animated stickers on videos.</br>
-        <point>NEW</point> Enabled Listen to voice messages before sending.</br>
-        <point>NEW</point> You can now enable Disappearing Messages by default in new chats. </br>
-        <point>NEW</point> Disappearing Messages now includes 24 hours, 7 days, and 90 days timer options.</br>
-        <point>Additional</point> Removed the option to play voice automatically.</br>
-        <point>Additional</point> Improved mod backup (Experimental).</br>
-        <point>Additional</point> Experimental functions of the previous version, they are already stable.</br>
-        <fixed>Fixed</fixed> Fixed bugs from the old base.</br>
-        <fixed>Fixed</fixed> Other fixes and performance improvements!</br>
-
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 07</h2>
-
-    <p>
-
-
-        <point>NEW</point> Now when hiding the Mark As Seen and Download Status icons will be invisible, you can keep clicking right there.</br>
-        <point>NEW</point> Now when archived chats are hidden you can access them by clicking on the right side of the WhatsApp name.</br>
-        <fixed>Fixed</fixed> Fixed ability to add third party stickers in clone pack.</br>
-        <fixed>Fixed</fixed> Other fixes.</br>
-
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 06</h2>
-
-    <p>
-
-
-        <point>NEW</point> Base Updated to 2.21.22.26 Stable Base.</br>
-        <point>NEW</point> Now you can download photos sent in "view once" mode.</br>
-        <point>NEW</point> Added option to hide archived chats from main screen.</br>
-        <point>NEW</point> Added a section in the mod settings to make donations.</br>
-        <point>NEW</point> Added option to lock entry to archived chats and settings+.</br>
-        <point>NEW</point> The option to send a video of more than 16MB is now visible (Experimental).</br>
-        <point>NEW</point> The call privacy option has been improved. (Now it is by default to show that you have not answered the call).</br>
-        <point>Additional</point> Now showing the deleted icon in deleted states is more accurate.</br>
-        <point>Additional</point> The message counter in groups is now more accurate.</br>
-        <point>Additional</point> The option to choose the way to load the gifs (Tenor-Giphy) has been eliminated.</br>
-        <point>Additional</point> You can only download statuses from the below icon.</br>
-        <fixed>Fixed</fixed> Fixed the sending of photos in high resolution.</br>
-        <fixed>Fixed</fixed> Fixed uploading videos longer than 30 seconds to states.</br>
-        <fixed>Fixed</fixed> Fixed storage permission.</br>
-        <fixed>Fixed</fixed> Other fixes and performance improvements!</br>
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 05</h2>
-
-    <p>
-
-
-        <point>NEW</point> Base Updated to 2.21.18.17 Stable Base.</br>
-        <point>NEW</point> New WhatsApp design (Flat - Vivid colors).</br>
-        <point>NEW</point> Now you can use the multi-device function (Beta).</br>
-        <point>NEW</point> Added Anti-view once.</br>
-        <point>NEW</point> Added Search for images on the internet from the chat.</br>
-        <point>NEW</point> Added Arm-64 architecture.</br>
-        <point>Additional</point> The option to split videos has been completely removed.</br>
-        <point>Additional</point> The option to Remove Read More Button has been removed.</br>
-        <point>Additional</point> The time to delete a message for everyone was reduced to 11h due to WhatsApp servers.</br>
-        <point>Additional</point> Optimized the YMWA code.</br>
-        <fixed>Fixed</fixed> Online contact notice option was corrected. (In some cases it did not show the names of the contacts).</br>
-        <fixed>Fixed</fixed> Other fixes and performance improvements!</br>
-
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 04</h2>
-
-    <p>
-
-
-        <point style="font-weight: bold;">NEW</point> Calls privacy was added again.</br>
-        <point style="font-weight: bold;">NEW</point> Hide typing and hide recording, are now linked.</br>
-        <point>Additional</point> The Hide second tick option has been removed to avoid message delays.</br>
-        <point>Additional</point> Improvements and optimization have been made to the code.</br>
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 03</h2>
-
-    <p>
-
-
-        <point style="font-weight: bold;">NEW</point> Base Updated to 2.21.15.20 Stable Base.</br>
-        <point style="font-weight: bold;">NEW</point> Now you can choose between Tenor and Giphy when sending a GIF.</br>
-        <point style="font-weight: bold;">NEW</point> Selectable text in the description of the state.</br>
-        <point style="font-weight: bold;">NEW</point> Clear cache (one section for Android 5-10, another section for Android 11 and higher).</br>
-        <point style="font-weight: bold;">NEW</point> The button to download states in the 3 points was added again.</br>
-        <point style="font-weight: bold;">NEW</point> You can now delete recent emojis in any conversation, at all 3 points.</br>
-        <point style="font-weight: bold;">NEW</point> Hebrew language added.</br>
-        <point style="font-weight: bold;">NEW</point> Enabled See once when sending images and videos.</br>
-        <point>Additional</point> Call privacy is not enabled at the moment.</br>
-        <fixed>Fixed</fixed> Fixed media settings (It was disabled by itself).</br>
-        <fixed>Fixed</fixed> Fixed Mod backup on Android 11.</br>
-        <fixed>Fixed</fixed> Fixed option to disable Forward label.</br>
-        <fixed>Fixed</fixed> Fixed some privacy details.</br>
-        <fixed>Fixed</fixed> Fixed button to open archived chats. </br>
-        <fixed>Fixed</fixed> More fixes and improvements!</br>
-    </p>
-    <hr />
-
-    <h2 style="color: #008069"> Version 02</h2>
-    <p>
-
-
-        <baseup>Base</baseup> 2.20.193</br>
-        <point style="font-weight: bold;">NEW</point> Privacy included</br>
-        <point>Additional</point> Animated stickers</br>
-        <point>Additional</point> Enabled hidden functions</br>
-
-    </p>
-    <hr />
+     <hr />    
+    
 
 </body>
 
