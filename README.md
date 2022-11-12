@@ -70,40 +70,55 @@
 
 <body>
     
-        <h2 style="color: #008069"> DSM WhatsApp V16.0</h2>
-    <date>30/Aug/2022</date>
-    
-    <hr /> 
+            <h2 style="color: #008069"> DSM WhatsApp V17.0</h2>
+    <date>12/11/2022</date>
+    <hr/>
     <p>
+	
+		<point>NEW</point> Base Updated to 2.22.20.17 Stable Base. </br>
 
-        <point>NEW</point> Base Updated to 2.22.16.75 Stable Base. </br>
-        <point>NEW</point> Now the administrator of a group can delete messages from any member for everyone. (Only works if you have anti-delete messages disabled).</br>
-        <point>NEW</point> Now there is also the percentage and remaining time when sending and downloading videos.</br>
-        <point>NEW</point> Enabled delete messages for everyone up to 2 days and 12 hours.</br>
-        <point>NEW</point> Now you can use the status reactions.</br>
-        <point>NEW</point> Adaptive Storage. (The mod backup, status downloads, photo/video downloads in view once, images from internet, will be saved in the respective directory depending on the android version you have). </br>
-        <point>NEW</point> On group calls, you can mute others or message them by long pressing on their tile.</br>
-         <point>NEW</point> Add Menu Settings In Home Screen</br> 
-           <point>NEW</point> Add Status Color Changer & More Features.</br>
-             <point>NEW</point> Add New Boom Settings & More Features</br>
-               <point>NEW</point> Add New Home Style Changer</br>
-                 <point>NEW</point> Add Custom Search Bar In Home Screen</br>
-                   <point>NEW</point> Add Modify Chat In Home Menu And Chat Screen</br>
-                     <point>NEW</point> Add All Effects (chats, main screen, emojis).</br>
-                        <point>NEW</point> Add More Extra Buttons In Privacy.</br>
-             <point>NEW</point> Add New Privacy Style [ UI ].</br>        
-        <point>Additional</point> Made improvements to the Settings+ UI.</br>
-        
-        <point>Additional</point> Full HD Meadia.</br>
-        <point>Additional</point> Improvements in privacy options.</br>
-        <point>Additional</point> The maximum size limit for sending videos has been reduced to 100MB due to problems with some users.</br>
-        <fixed>Fixed</fixed> Fixed a bug that would not allow sending videos on some occasions.</br>
-        <fixed>Fixed</fixed> Fixed an issue causing hidden features to be temporarily disabled.</br>
-        <fixed>Fixed</fixed> Fixed keyboard not appearing when responding to a message.</br>
-        <fixed>Fixed</fixed> Other fixes, optimizations, and stability and performance improvements.</br>
+		<point>Added</point> More Options In Chat (Modify Chat, Translater, Copy Selection and More Options)<br>	
+		<point>Added</point> New Side Drawer <br>
+		<point>Added</point> New Quick Chat Dialog Style<br>
+		<point>Added</point> Who Blocked You Feature Add<br>
+		<point>Added</point> Mass Massages Option Added<br>
+		<point>Added</point> Auto Reply Option Added<br>
+		<point>Added</point> Schedule Option Added<br>
+		<point>Added</point> New Themes Changer In Home (Light/Dark)<br>
+		<point>Added</point> More Options In popup menu <br>
+		<point>Added</point> New Translate Options<br>
+		<point>Added</point> Voice Changer Added<br>
+		<point>Added</point> New BoomText Style<br>
+		<point>Added</point> New Group Message Count<br>
+		<point>Added</point> New Status Download Style<br>
+		<point>Added</point> New Privacy Style<br>
+		<point>Added</point> New Lock Options<br>
+		<point>Added</point> New Hide Chats<br>
+		 <point>Added</point> New Toast Settings<br>
+		 <point>Added</point> New Addtional Options Added<br>
+<point>Added</point> Show notification for blocked calls due to calls privacy<br>
+<point>Added</point> Option to Double Tap to Like<br>
+<point>Added</point> Admin Indicator in groups<br>
+		<point>Added</point> Ability to share multiple images/videos/files at same time from chat to outside apps!<br>
+	
+		<enable>Enabled</enable> Filter unread messages using search<br>
+		
+		<enable>Enabled</enable> Online privacy! 
+You can choose who can see when you're online. (Settings > Account > Privacy)   <br>
+		<enable>Enabled</enable> Leave groups secretly without all people knowing (only admins can see you left)<br>
+		<enable>Enabled</enable> Admin can remove other people messages in group chats (only works when users on new base)<br>
+		<enable>Enabled</enable> Ability to see past participants of groups (who left and when!)<br>
 
-    </p>
-     <hr />    
+		<fixed>Fixed</fixed> View all person's messages in group chat<br>
+		<fixed>Fixed</fixed> Group Message counter in group info page<br>
+		<fixed>Fixed</fixed> Other small bugs<br>
+		<fixed>Fixed</fixed> Some bugs<br>
+		<fixed>Fixed</fixed> Some crashes<br>				
+		<fixed>Misc</fixed> Improved Anti-ban<br> 
+		<fixed>Misc</fixed> Many other fixes and improvements that we forgot :p<br/>
+		
+	    </p>
+    <hr/>
     
 
 </body>
