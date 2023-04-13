@@ -80,27 +80,22 @@
    
   
       <h2 style="color: #008069"> DSM WhatsApp</h2>
-     <h2 style="color: #008069"> Version 19.0</h2>
-    <date>2023/03/19</date>
+     <h2 style="color: #008069"> Version 20.0</h2>
+    <date>2023/04/13</date>
     <hr/>
     <p>
   
-    <baseup>Base Update</baseup>Updated 2.23.1.76 (Play Store)<br>
-
-
-    <point>Added</point> Options to hide Save and Mark Seen buttons on status page<br>
-    <point>Added</point> Load custom font<br>
-(1- Select "Custom" from font style, then 2- use Load font option)<br>
-    <point>Added</point> Option to Hide Status Cutter FAB ✂️<br>
-    <point>Added</point> DSMBackup updated automatically daily<br>
-    <enable>Enabled</enable> Proxy Settings (Settings > Storage and data > Proxy Settings)<br>
-    <enable>Enabled</enable> Edit Messages<br>
-    <enable>Enabled</enable> Keep messages option when disappearing mode is active (Long press any message)<br>
-    <fixed>Fixed</fixed>Not Working Splash screen some phone<br>
-    <fixed>Fixed</fixed>Auto reply / forward crash<br>
-        <fixed>Fixed</fixed>Status Share not working<br>
-    <fixed>Fixed</fixed> WhatsApp fingerprint lock issues<br>
-    <fixed>Fixed</fixed> Many custom text status icons <br>
+ 
+    <point>Added</point> Who Changed Privacy?<br>
+    <point>Added</point> High Media Resolution<br>
+    <point>Added</point> Add Select All Message Icon ( DSMMods >> Settings >>> Extra Feature >>> Show Icon Select All )<br>
+    
+  <point>Added</point> Added More Extra Features (DSMMods >> Settings >>> Extra Feature >>> [ Reply to text when mention , Show who give or take your Admin , ios boom text , Auto Forword , Enable custom video player , Revome Character limit in Name and About , Message Forword Options ,  Recode voice in During Call ]<br>
+  
+        <point>Added</point>Know When Someone Deleted Story & Message ( DSMMods >> Settings >> Bubbles And Ticks)<br>
+    <enable>New</enable> ReDesigne Main Settings<br>
+    <fixed>Fixed</fixed>Typing Toast<br>
+    <fixed>Fixed</fixed> Issue Of 1 hour Ban For Some Users<br>  
     <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
     <fixed>Misc</fixed> Other fixes and improvements<br>
 
