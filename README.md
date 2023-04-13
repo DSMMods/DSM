@@ -79,7 +79,7 @@
 
    
   
-      <h2 style="color: #008069"> DSM WhatsApp</h2>
+      
      <h2 style="color: #008069"> Version 20.0</h2>
     <date>2023/04/13</date>
     <hr/>
