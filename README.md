@@ -144,7 +144,13 @@
 
 <body>
 
+<h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
 
+<h2 style="color: #008069"> Version 21.0</h2>
+
+    <date>2023/06/11</date>
+
+    <hr/>
 
     <p>
 
