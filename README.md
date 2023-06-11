@@ -144,74 +144,41 @@
 
 <body>
 
-<h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
 
-     <h2 style="color: #008069"> Version 20.0F Anti-ban</h2>
-
-    <date>2023/05/17</date>
-
-    <hr/>
 
     <p>
 
-        <point>Added</point> MAX Anti-ban Protection<br>        
+          <point>Additional</point> Now you can change app themes (light/dark) in settings >> chats >> Theme<br>
 
-        <enable>Enabled</enable> Some Hidden Function<br>
+          <point>Additional</point> Create Google drive Backups in Settings >> chats >> Chat Backup.<br>
 
-        <fixed>Fixed</fixed> High Media Resolution <br>
+        <point>Additional</point> Redesign Main Privacy Settings .<br>
+
+                    <point>Additional</point> Change all whatsapp notification icons/text color (same as orginal whatsapp) <br>
+
+            <point>Additional</point> Change income call and outgoing call background (same as orginal whatsapp) <br>
+
+        <point>Additional</point> Default turn off Who Change Privacy notifications.(You can turn on in DSM Menu >> Privacy Change >> Notifications) <br>
+
+  <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
+
+    <fixed>Misc</fixed> Other fixes and improvements<br>
 
        </p>
-
-    <hr/>
 
     
 
    
 
-    <h2 style="color: #008069"> Version 20.0</h2>
-
-    <date>2023/04/13</date>
-
-    <hr/>
-
-    <p>
-
+    
   
 
  
 
-    <point>Added</point> Who Changed Privacy?<br>
-
-    <point>Added</point> High Media Resolution<br>
-
-    <point>Added</point> Add Select All Message Icon ( DSMMods >> Settings >>> Extra Feature >>> Show Icon Select All )<br>
-
     
-
-  <point>Added</point> Added More Extra Features (DSMMods >> Settings >>> Extra Feature >>> [ Reply to text when mention , Show who give or take your Admin , ios boom text , Auto Forword , Enable custom video player , Revome Character limit in Name and About , Message Forword Options ,  Recode voice in During Call ]<br>
-
   
 
-        <point>Added</point>Know When Someone Deleted Story & Message ( DSMMods >> Settings >> Bubbles And Ticks)<br>
-
-    <enable>New</enable> ReDesigne Main Settings<br>
-
-    <fixed>Fixed</fixed>Typing Toast<br>
-
-    <fixed>Fixed</fixed> Issue Of 1 hour Ban For Some Users<br>  
-
-    <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
-
-    <fixed>Misc</fixed> Other fixes and improvements<br>
-
-	
-
-	    </p>
-
-	    <br>
-	
-
-	    <hr/>
+        
 
 </body>
 
