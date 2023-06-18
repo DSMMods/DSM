@@ -147,6 +147,7 @@
 <h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
 
 <h2 style="color: #008069"> Version 21.0F</h2>
+
 <p>
 <fixed>Fixed</fixed> Date Update issues <br>
 
