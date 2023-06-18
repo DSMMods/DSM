@@ -149,7 +149,9 @@
 <h2 style="color: #008069"> Version 21.0F</h2>
 
 <fixed>Fixed</fixed> Date Update issues <br>
+
 <fixed>Fixed</fixed> 1min banned some users <br>
+
 <fixed>Fixed</fixed> (wa .me / settings) issues some countries users <br>
 
 <hr>
