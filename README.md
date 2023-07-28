@@ -146,41 +146,33 @@
 
 <h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
 
-<h2 style="color: #008069"> Version 21.0F</h2>
+<h2 style="color: #008069"> Version 22.0</h2>
 
 <p>
-<fixed>Fixed</fixed> Date Update issues <br>
+<baseup>Base Update</baseup>Updated to 2.23.9.75 (Play Store)- Play Store<br>
+<point style="font-weight: bold;">📌 Exclusive</point> Media Backup/Restore option (Images, Videos, etc.) <br>
+—> DSMMods > Settings > Backup and Restore<br>
+- Useful for Android 11+ users to backup media before uninstall<br>  
+<point>Added</point>Edited Messages & Original Message View<br>
+<point>Added</point>Send docs, media, audio up to 100MB+ size<br>
+<point>Added</point> iOS 2023 Emojis pack (DSMMods > Settings > Styles) <br>
+<enable>Enabled</enable> Edit Messages<br>
+<enable>Enabled</enable> Receive Pinned messages from others<br>
+<enable>Enabled</enable> Transfer Chats between phones without GDrive (Settings > Chats)<br>
+<enable>Enabled</enable> Pin Message in private chats<br>
 
-<fixed>Fixed</fixed> 1min banned some users <br>
-
-<fixed>Fixed</fixed> (wa .me / settings) issues some countries users <br>
-</p>
-<hr>
-
-<h2 style="color: #008069"> Version 21.0</h2>
-
-    <date>2023/06/11</date>
-
-    <hr/>
-
-    <p>
-
-          <point>Additional</point> Now you can change app themes (light/dark) in settings >> chats >> Theme<br>
-
-          <point>Additional</point> Create Google drive Backups in Settings >> chats >> Chat Backup.<br>
-
-        <point>Additional</point> Redesign Main Privacy Settings .<br>
-
-                    <point>Additional</point> Change all whatsapp notification icons/text color (same as orginal whatsapp) <br>
-
-            <point>Additional</point> Change income call and outgoing call background (same as orginal whatsapp) <br>
-
-        <point>Additional</point> Default turn off Who Change Privacy notifications.(You can turn on in DSM Menu >> Privacy Change >> Notifications) <br>
-
-  <fixed>Misc</fixed> Enjoy and discover by yourself!<br>
-
-    <fixed>Misc</fixed> Other fixes and improvements<br>
-
+<enable>Enabled</enable> official Locked Conversations (Chat Info page > Lock)<br>
+<enable>Enabled</enable> Group Members pic in chat (official by WA)<br>
+<fixed>Misc</fixed> View all User messages moved to Group Info page<br>
+<fixed>Misc</fixed> Some styles updated to work with new WA base.<br>
+<fixed>Misc</fixed> Cleaned up some settings<br>
+<fixed>Misc</fixed> General bug fixes<br>
+<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed>Misc</fixed> Other fixes and improvements
+	
+	
+	    </p>
+    <hr/><br/>
        </p>
 
     
