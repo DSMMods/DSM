@@ -151,8 +151,6 @@
 <p>
 <baseup>Base Update</baseup>Updated to 2.23.9.75 (Play Store)- Play Store<br>
 <point style="font-weight: bold;">📌 Exclusive</point> Media Backup/Restore option (Images, Videos, etc.) <br>
-—> DSMMods > Settings > Backup and Restore<br>
-- Useful for Android 11+ users to backup media before uninstall<br>  
 <point>Added</point>Edited Messages & Original Message View<br>
 <point>Added</point>Send docs, media, audio up to 100MB+ size<br>
 <point>Added</point> iOS 2023 Emojis pack (DSMMods > Settings > Styles) <br>
