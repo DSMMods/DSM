@@ -146,27 +146,43 @@
 
 <h1><fixed style="font-weight: bold; text-decoration: underline;">Improved</a><i> Anti-ban Protection 99.9%</i></fixed><br></h1>
 
-<h2 style="color: #008069"> Version 22.0</h2>
+	<h2 style="color: #008069"> Version 23.0</h2>
+    <date>2023/12/13</date>
+    <hr/>
+    <p>
 
-<p>
-<baseup>Base Update</baseup>Updated to 2.23.9.75 (Play Store)- Play Store<br>
-<point style="font-weight: bold;">📌 Exclusive</point> Media Backup/Restore option (Images, Videos, etc.) <br>
-<point>Added</point>Edited Messages & Original Message View<br>
-<point>Added</point>Send docs, media, audio up to 100MB+ size<br>
-<point>Added</point> iOS 2023 Emojis pack (DSMMods > Settings > Styles) <br>
-<enable>Enabled</enable> Edit Messages<br>
-<enable>Enabled</enable> Receive Pinned messages from others<br>
-<enable>Enabled</enable> Transfer Chats between phones without GDrive (Settings > Chats)<br>
-<enable>Enabled</enable> Pin Message in private chats<br>
 
-<enable>Enabled</enable> official Locked Conversations (Chat Info page > Lock)<br>
-<enable>Enabled</enable> Group Members pic in chat (official by WA)<br>
-<fixed>Misc</fixed> View all User messages moved to Group Info page<br>
-<fixed>Misc</fixed> Some styles updated to work with new WA base.<br>
-<fixed>Misc</fixed> Cleaned up some settings<br>
-<fixed>Misc</fixed> General bug fixes<br>
-<fixed>Misc</fixed> Enjoy and discover by yourself!<br/>
-<fixed>Misc</fixed> Other fixes and improvements
+<baseup> Base Updated</baseup> 2.23.24.12<br>
+<point> Added</point> New Message Select Menu (on/off)<br>
+<point> Added</point> DSMWA Save Status Now (/storage/emulated/0/Download/Media/DSM WhatsApp_Statuses/)<br>
+<point> Added</point> Show who admin promoted or removed<br>
+<point> Added</point> Auto backup Your Data (You Can Change it)<br>
+<point> Added</point> Fake Chat<br>
+<point> Added</point> Upload status video in 7 minutes<br>
+<point> Added</point> Best Media Qulity (Send Your All Media)<br>
+
+
+<enable>️ Enabled</enable> New Home UI<br>
+<enable> Enabled</enable> New Theme<br>
+<enable>️ Enabled</enable> Filter messages on the home screen<br>
+<enable> Enabled</enable> animations when opening the keyboard<br>
+<enable>️ Enabled</enable> Create AI Stickers on same devices<br>
+<enable> Enabled</enable> New Icon<br>
+<enable> Enabled</enable> Option to approve new group members before joining<br>
+<enable> Enabled</enable> Animation Avatar<br>
+<enable> Enabled</enable> Multiple Accounts <br>
+<enable> Enabled</enable> Adjust Group Permissions<br>
+<enable> Enabled</enable> Add Email Address to your account (Settings > Account)<br>
+<enable> Enabled</enable> Media Preview feature<br>
+
+
+<fixed> Fixed</fixed> Google Drive Backup<br>
+
+<fixed> Misc</fixed> General bug fixes<br>
+<fixed> Misc</fixed> Enjoy and discover by yourself!<br/>
+<fixed> Misc</fixed> Other fixes and improvements<br/>
+
+<hr/><br/>
 	
 	
 	    </p>
